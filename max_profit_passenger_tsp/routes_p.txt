@@ -1,0 +1,20 @@
+brahmanapalli thanda to lacherla,4
+mamillakunta to marakuntapalli,6
+kappalabanda to shyamapuram,6
+shyamapuram to mamillakunta,8
+nallaguttapalli to marakuntapalli,8
+lacherla to marakuntapalli,3
+gorntlapalli to mamillakunta,7
+kappalabanda thanda to lacherla,7
+mamillakunta to shyamapuram,7
+janakampalli to puttaparthi,6
+kothacheruvu to mamillakunta,4
+lacherla to mamillakunta,7
+shyamapuram to gorntlapalli,8
+gorntlapalli to puttaparthi,3
+mamillakunta to puttaparthi,5
+shyamapuram to nallaguttapalli,4
+mamillakunta to lacherla,3
+mamillakunta to kappalabanda,6
+koyalaguttapalli to mamillakunta,7
+gorntlapalli to mamillakunta,3

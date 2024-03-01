@@ -1,0 +1,15 @@
+mamillakunta,83
+lacherla,61
+puttaparthi,79
+shyamapuram,65
+gorntlapalli,61
+nallaguttapalli,85
+janakampalli,77
+kothacheruvu,91
+kappalabanda,55
+marakuntapalli,81
+tippahatlapalli,55
+koyalaguttapalli,78
+brahmanapalli thanda,95
+kappalabanda thanda,90
+bidupalli,67
